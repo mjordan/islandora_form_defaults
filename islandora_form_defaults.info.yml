@@ -1,0 +1,8 @@
+name: 'Islandora Form Defaults'
+description: "Provides some default values for Islandora media add forms."
+type: module
+package: Islandora
+core: 8.x
+dependencies:
+  - islandora
+  - media

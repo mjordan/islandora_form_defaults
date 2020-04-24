@@ -1,0 +1,7 @@
+islandora_form_defaults:
+  version: 1.x
+  js:
+    js/islandora_form_defaults.js: {}
+  dependencies:
+    - core/jquery
+    - core/jquery.once

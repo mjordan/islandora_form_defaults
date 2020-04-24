@@ -1,0 +1,1 @@
+This module provides an interim solution to https://github.com/Islandora/documentation/issues/1491. It will not likely stay an independent module, so best not to install it unless testing https://github.com/Islandora/documentation/issues/1491.
